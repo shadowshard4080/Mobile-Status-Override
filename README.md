@@ -3,7 +3,9 @@ A BetterDiscord plugin that overrides the mobile status indicator by setting you
 
 ## How to download and use this plugin:
 
-Download [MobileStatusOverride.plugin.js](https://github.com/shadowshard4080/Mobile-Status-Override/blob/main/MobileStatusOverride.plugin.js)
+Download [MobileStatusOverride.plugin.js](https://github.com/shadowshard4080/Mobile-Status-Override/archive/refs/heads/main.zip)
+
+Extract the .zip file.
 
 Go to Discord Settings > BetterDiscord > Plugins and click "Open Plugins Folder" at the top.
 
